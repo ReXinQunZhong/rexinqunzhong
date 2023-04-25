@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 😁
+
+<h6 align="center">
+  <!-- 
+  language
+  -->
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=go&text=false">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=rust&text=false">
+</h6 > 
 
 <!--
 **ReXinQunZhong/rexinqunzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
